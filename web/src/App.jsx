@@ -24,7 +24,7 @@ export default function App() {
           Stay tuned!
         </p>
 
-        <a className="button" href="mailto:himu149209@gmail.com">Contact Us</a>
+        <a className="button" href="mailto:ahuja.himanshu20@yahoo.com">Contact Us</a>
       </main>
 
       <footer>© 2026 Vanavatika. All Rights Reserved.</footer>
